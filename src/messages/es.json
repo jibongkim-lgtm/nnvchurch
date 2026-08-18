@@ -1,0 +1,298 @@
+{
+  "Meta": {
+    "homeTitle": "Inicio",
+    "homeDescription": "Nanaimo Native Victory Church — una comunidad centrada en Cristo en la Isla de Vancouver, que sirve y camina junto a los pueblos de las Primeras Naciones de esta tierra."
+  },
+  "Nav": {
+    "home": "Inicio",
+    "churchInfo": "Sobre la Iglesia",
+    "intro": "Nuestra Iglesia",
+    "history": "Historia",
+    "greeting": "Saludo del Pastor",
+    "people": "Nuestra Gente",
+    "newFamily": "Nueva Familia",
+    "directions": "Cómo Llegar",
+    "worship": "Culto",
+    "ministry": "Ministerio",
+    "events": "Eventos",
+    "media": "Medios",
+    "giving": "Donar",
+    "give": "Donar"
+  },
+  "Home": {
+    "heroTagline": "Nanaimo, BC · Isla de Vancouver",
+    "heroTitle": "Nanaimo Native Victory Church",
+    "heroSub": "Nanaimo Native Victory Church es una comunidad centrada en Cristo en la Isla de Vancouver, que sirve y camina junto a los pueblos de las Primeras Naciones de esta tierra. Buscamos sanidad, restauración y esperanza a través del amor de Jesucristo, guiados por la humildad, la oración y las relaciones genuinas.",
+    "heroMessages": [
+      "El camino del evangelio que comenzó con las Primeras Naciones de esta tierra hace más de 60 años — hoy todavía lo recorremos juntos.",
+      "Donde hay heridas, oramos por la sanidad y la restauración de Jesucristo.",
+      "Llevamos en oración a las 53 naciones de la Isla de Vancouver — cada nombre."
+    ],
+    "heroCta1": "Visita y Oración",
+    "heroCta2": "Conozca a Nuestro Equipo",
+    "pastorLabel": "Pastor Principal",
+    "pastorName": "Rev. Joon Cho",
+    "pastorLink": "Conozca a Nuestro Equipo",
+    "eventsTitle": "Próximos Eventos",
+    "events": [
+      {
+        "name": "Culto de Adultos",
+        "time": "3pm"
+      },
+      {
+        "name": "Culto de Jóvenes",
+        "time": "1pm"
+      },
+      {
+        "name": "Culto Infantil",
+        "time": "1pm"
+      }
+    ],
+    "ctaTitle": "Visita y Oración",
+    "ctaBody": "471 Irwin Street, Nanaimo, BC, V9R 4X9",
+    "ctaVisit": "Visita y Oración",
+    "ctaGive": "Donar"
+  },
+  "About": {
+    "eyebrow": "Sobre la Iglesia",
+    "title": "Nuestra Iglesia",
+    "introLabel": "Bienvenido",
+    "introBody": "Nanaimo Native Victory Church es una comunidad centrada en Cristo en la Isla de Vancouver, que sirve y camina junto a los pueblos de las Primeras Naciones de esta tierra. Buscamos sanidad, restauración y esperanza a través del amor de Jesucristo, guiados por la humildad, la oración y las relaciones genuinas.",
+    "visionLabel": "Visión",
+    "visionBody": "Estamos comprometidos a compartir el evangelio de Jesucristo y a edificar la iglesia de Dios entre las 53 tribus indígenas de toda la Isla de Vancouver. Nanaimo Central Church se une a esta visión, colaborando en el ministerio indígena en toda la Isla de Vancouver y el norte de Columbia Británica.",
+    "ministriesLabel": "Ministerios",
+    "ministries": [
+      "Ministerio de Adultos Indígenas",
+      "Ministerio de Jóvenes Indígenas",
+      "Nueva Generación Indígena",
+      "Banco de Alimentos"
+    ],
+    "partnersLabel": "Iglesias Asociadas",
+    "partners": [
+      "Fort Rupert Church",
+      "Glad Tidings Church"
+    ]
+  },
+  "History": {
+    "eyebrow": "Sobre la Iglesia",
+    "title": "Historia",
+    "body": [
+      "Nanaimo Native Victory Church fue fundada hace más de 60 años por el pastor Carl Miller junto con el pueblo indígena de Nanaimo. En aquel entonces, la iglesia participaba activamente en la recuperación de los niños indígenas que eran llevados a las escuelas residenciales, y durante décadas ha trabajado por los derechos, el bienestar y las misiones indígenas.",
+      "Nanaimo Native Victory Church está afiliada a The Pentecostal Assemblies of Canada (PAOC), la mayor denominación evangélica de Canadá y un cuerpo teológicamente conservador. Entre las iglesias representativas de esta denominación en la región circundante se encuentran Nanaimo Generation Church, Vancouver Broadway Church, Langley CLA y Victoria Coastline Church. La PAOC mantiene una relación fraterna con la denominación Yoido Full Gospel Church en Corea y con la denominación Assemblies of God en los Estados Unidos."
+    ],
+    "milestones": [
+      {
+        "year": "Hace más de 60 años",
+        "title": "Fundación de la Iglesia",
+        "desc": "Fundada por el pastor Carl Miller junto con el pueblo indígena de Nanaimo."
+      },
+      {
+        "year": "2018",
+        "title": "Nanaimo Central Church",
+        "desc": "La comunidad coreana comenzó a congregarse como parte de Nanaimo Native Victory Church."
+      }
+    ]
+  },
+  "Greeting": {
+    "eyebrow": "Sobre la Iglesia",
+    "title": "Saludo del Pastor",
+    "body": [
+      "Bienvenido a Nanaimo Native Victory Church. Nos alegra mucho que nos haya encontrado.",
+      "Durante más de sesenta años, esta iglesia ha caminado junto a los pueblos de las Primeras Naciones de la Isla de Vancouver, buscando sanidad, restauración y esperanza a través del amor de Jesucristo. Ese llamado sigue dando forma a todo lo que hacemos hoy.",
+      "Ya sea que esté de visita, en búsqueda o buscando un hogar espiritual, es bienvenido aquí tal como es. Venga a adorar con nosotros, y que experimente la gracia de Dios en medio de esta comunidad."
+    ],
+    "signName": "Rev. Joon Cho",
+    "signRole": "Pastor Principal, Nanaimo Native Victory Church"
+  },
+  "Events": {
+    "eyebrow": "Guía de Cultos",
+    "title": "Cultos y Eventos",
+    "intro": "Horarios de culto, reuniones regulares y próximos eventos en Nanaimo Native Victory Church.",
+    "recurringLabel": "Reuniones Regulares",
+    "recurring": [
+      {
+        "name": "Culto Dominical de Adultos",
+        "time": "Domingos 3:00 pm"
+      },
+      {
+        "name": "Culto de Jóvenes",
+        "time": "Domingos 1:00 pm"
+      },
+      {
+        "name": "Culto Infantil",
+        "time": "Domingos 1:00 pm"
+      }
+    ],
+    "upcomingLabel": "Próximos Eventos",
+    "upcoming": [
+      {
+        "date": "5 de abril de 2026 (dom)",
+        "title": "Culto Unido de Pascua",
+        "time": "10:30 am",
+        "location": "Santuario · 471 Irwin Street",
+        "desc": "Un culto unido celebrando el gozo de la resurrección, seguido de un tiempo de compañerismo."
+      },
+      {
+        "date": "18–20 de julio de 2026",
+        "title": "Campamento de Verano del Ministerio Indígena",
+        "time": "3 días",
+        "location": "Isla de Vancouver",
+        "desc": "Un campamento de verano de corta duración que sirve a las tribus indígenas de la Isla de Vancouver."
+      },
+      {
+        "date": "11 de octubre de 2026 (dom)",
+        "title": "Domingo de Acción de Gracias",
+        "time": "10:30 am",
+        "location": "Santuario · 471 Irwin Street",
+        "desc": "Dando gracias por la gracia del año, adorando y compartiendo juntos."
+      },
+      {
+        "date": "24 de diciembre de 2026 (mié)",
+        "title": "Culto de Nochebuena",
+        "time": "7:00 pm",
+        "location": "Santuario · 471 Irwin Street",
+        "desc": "Un culto a la luz de las velas dando la bienvenida a la venida de Jesucristo."
+      }
+    ],
+    "empty": "No hay eventos programados.",
+    "cta": "Visita y Oración"
+  },
+  "Media": {
+    "eyebrow": "Videos y Prensa",
+    "title": "Medios",
+    "intro": "Videos y cobertura de prensa de Nanaimo Native Victory Church y su ministerio indígena en la Isla de Vancouver.",
+    "videosLabel": "Videos",
+    "videos": [
+      {
+        "title": "¿Una buena casa pastoral, pero sin pastor? · Viaje por Canadá [Parte 1]",
+        "channel": "유목민이야기"
+      },
+      {
+        "title": "La abuela de cabello blanco que cuidó la iglesia durante 20 años · Viaje por Canadá [Parte 2]",
+        "channel": "유목민이야기"
+      },
+      {
+        "title": "¿Por qué es tan difícil la misión a las Primeras Naciones de Canadá? — Nanaimo Native Victory Church [Parte 1]",
+        "channel": "유목민이야기"
+      },
+      {
+        "title": "Entrando a una aldea indígena · Las ventajas de emigrar a Canadá — Nanaimo Native Victory Church [Parte 2]",
+        "channel": "유목민이야기"
+      }
+    ],
+    "photosLabel": "Fotos",
+    "photos": [
+      {
+        "caption": "Bautismo junto al lago — celebrando un nuevo paso de fe."
+      },
+      {
+        "caption": "Un momento compartido de bautismo en el agua."
+      },
+      {
+        "caption": "Reconstruyendo Fort Rupert Church — restaurando juntos el revestimiento antiguo."
+      },
+      {
+        "caption": "Reconstruyendo Fort Rupert Church — edificando juntos un lugar de adoración."
+      }
+    ]
+  },
+  "Ministry": {
+    "eyebrow": "Ministerio",
+    "title": "Nuestros Ministerios",
+    "intro": "Compartiendo el evangelio de Jesucristo y sirviendo a los pueblos de las Primeras Naciones de toda la Isla de Vancouver.",
+    "ministriesLabel": "Ministerios",
+    "ministries": [
+      "Ministerio de Adultos Indígenas",
+      "Ministerio de Jóvenes Indígenas",
+      "Nueva Generación Indígena",
+      "Banco de Alimentos"
+    ],
+    "visionLabel": "Nuestra Visión",
+    "visionCaption": "Alcanzar y ver una comunidad sana de creyentes en las 53 tribus de las Primeras Naciones de la Isla de Vancouver — llevando cada nombre en oración.",
+    "churchesLabel": "Nuestras Iglesias",
+    "churches": [
+      {
+        "name": "Nanaimo Native Victory Church",
+        "location": "Nanaimo"
+      },
+      {
+        "name": "Glad Tidings Church",
+        "location": "Alert Bay"
+      },
+      {
+        "name": "Fort Rupert Church",
+        "location": "Fort Rupert"
+      }
+    ],
+    "cta": "Visita y Oración"
+  },
+  "Leadership": {
+    "eyebrow": "Sobre la Iglesia",
+    "title": "Nuestra Gente",
+    "name": "Rev. Joon Cho",
+    "role1": "Pastor Principal",
+    "org1": "Nanaimo Native Victory Church",
+    "role2": "Director Ejecutivo / Presidente",
+    "org2": "153 Mission Society",
+    "teamLabel": "Nuestro Equipo",
+    "members": [
+      "Pastor Principal",
+      "Adultos y Banco de Alimentos",
+      "Pastor de Jóvenes",
+      "Director Regional",
+      "Director Regional",
+      "Pastor Honorario"
+    ]
+  },
+  "Visit": {
+    "eyebrow": "Sobre la Iglesia",
+    "title": "Cómo Llegar y Visitarnos",
+    "addressLabel": "Dirección",
+    "address": "471 Irwin Street, Nanaimo, BC, V9R 4X9",
+    "charity": "Charity #: 107759094RR0001",
+    "serviceLabel": "Horarios de Culto",
+    "services": [
+      "Culto Dominical de Adultos 3:00 pm",
+      "Culto Dominical de Jóvenes 1:00 pm",
+      "Culto Dominical Infantil 1:00 pm"
+    ],
+    "phoneLabel": "Teléfono",
+    "phone": "(250) 754-7866",
+    "emailLabel": "Correo Electrónico",
+    "email": "office.nnvc@gmail.com",
+    "formTitle": "Petición de Oración y Consultas",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "phoneField": "Teléfono",
+    "message": "Mensaje",
+    "submit": "Enviar",
+    "formThanks": "Gracias. Su aplicación de correo debería abrirse para enviar su mensaje."
+  },
+  "Give": {
+    "eyebrow": "Donar",
+    "title": "Donar",
+    "supportTitle": "Únase a Nosotros con un Corazón Cálido",
+    "body": [
+      "El ministerio indígena de Nanaimo Native Victory Church continúa gracias a sus oraciones y a su apoyo.",
+      "Cada donativo, por pequeño que sea, se convierte en una semilla preciosa que lleva el amor de Jesucristo a los vecinos de las Primeras Naciones de toda la Isla de Vancouver. Estamos profundamente agradecidos por cada colaborador que camina junto a nosotros."
+    ],
+    "methodEyebrow": "CANADA",
+    "methodTitle": "Transferencia electrónica de Canadá (EFT)",
+    "methodDesc": "Puede donar mediante Interac e-Transfer. Por favor, envíe su donativo al correo electrónico a continuación.",
+    "email": "office.nnvc@gmail.com",
+    "charity": "Charity #: 107759094RR0001",
+    "thanks": "Su donativo apoya el ministerio indígena en toda la Isla de Vancouver."
+  },
+  "Footer": {
+    "tagline": "Nanaimo Native Victory Church es una comunidad centrada en Cristo en la Isla de Vancouver, que sirve y camina junto a los pueblos de las Primeras Naciones de esta tierra.",
+    "charity": "Charity #: 107759094RR0001",
+    "quickLinks": "Enlaces Rápidos",
+    "contactTitle": "Contacto",
+    "rights": "© 2026 Nanaimo Native Victory Church. Todos los derechos reservados."
+  },
+  "Contact": {
+    "address": "471 Irwin Street, Nanaimo, BC, V9R 4X9",
+    "phone": "(250) 754-7866",
+    "email": "office.nnvc@gmail.com"
+  }
+}

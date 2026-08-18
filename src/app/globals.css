@@ -1,0 +1,260 @@
+@import "tailwindcss";
+
+@theme {
+  /* 브랜드 팔레트 — NNVC 로고(십자가+불꽃)에서 추출. 오순절 "불" 이미지의 따뜻한 톤 */
+  --color-brand: #2c3440;        /* charcoal slate (로고 십자가) */
+  --color-brand-dark: #1b212b;   /* deep charcoal */
+  --color-brand-light: #eef1f4;
+  --color-flame: #e07a2f;        /* flame orange (로고 불꽃) */
+  --color-ember: #c14a1b;        /* deep ember red-orange */
+  --color-gold: #c9992f;         /* warm gold (Donate) */
+  --color-cream: #f7f3ec;        /* 배경 */
+  --color-ink: #23282f;          /* 본문 텍스트 */
+
+  --font-sans: var(--font-sans), "Apple SD Gothic Neo", system-ui, sans-serif;
+  --font-serif: var(--font-serif), "Playfair Display", Georgia, serif;
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #23282f;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  /* 한글이 어절(단어) 단위로 줄바꿈되어 줄맞춤이 깔끔해짐 */
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
+
+/* 공용 컨테이너 */
+.container-x {
+  width: 100%;
+  max-width: 1160px;
+  margin-inline: auto;
+  padding-inline: 1.25rem;
+}
+
+/* Apple 스타일 리퀴드 글래스 버튼 — 커서를 따라 투명한 물방울 하이라이트가 부드럽게 움직임 */
+.liquid-btn {
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+  transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1),
+    box-shadow 0.35s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.liquid-btn::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  left: var(--mx, 50%);
+  top: var(--my, 50%);
+  height: 180px;
+  width: 180px;
+  transform: translate(-50%, -50%) scale(0.4);
+  border-radius: 9999px;
+  background: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 0.55) 0%,
+    rgba(255, 255, 255, 0.18) 35%,
+    transparent 68%
+  );
+  opacity: 0;
+  transition: opacity 0.4s ease, transform 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+  pointer-events: none;
+}
+.liquid-btn:hover {
+  transform: translateY(-1px);
+}
+.liquid-btn:hover::before {
+  opacity: 1;
+  transform: translate(-50%, -50%) scale(1);
+}
+@media (prefers-reduced-motion: reduce) {
+  .liquid-btn,
+  .liquid-btn::before {
+    transition: none;
+  }
+}
+
+/* 내비게이션 — hover 시 밑줄이 왼쪽에서 부드럽게 채워지는 언더라인 (불꽃 그라데이션) */
+.nav-link {
+  position: relative;
+}
+.nav-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -6px;
+  height: 2px;
+  border-radius: 9999px;
+  background: linear-gradient(90deg, var(--color-flame), var(--color-ember));
+  transform: scaleX(0);
+  transform-origin: left center;
+  transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.nav-link:hover::after,
+.nav-link[aria-current="page"]::after {
+  transform: scaleX(1);
+}
+@media (prefers-reduced-motion: reduce) {
+  .nav-link::after {
+    transition: none;
+  }
+}
+
+/* 페이지 전환 — 브라우저 네이티브 View Transitions 크로스페이드 */
+@keyframes vtFadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes vtFadeOut {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+::view-transition-old(root) {
+  animation: vtFadeOut 0.4s cubic-bezier(0.4, 0, 0.2, 1) both;
+}
+::view-transition-new(root) {
+  animation: vtFadeIn 0.5s cubic-bezier(0.4, 0, 0.2, 1) both;
+}
+@media (prefers-reduced-motion: reduce) {
+  ::view-transition-old(root),
+  ::view-transition-new(root) {
+    animation: none;
+  }
+}
+
+/* 부드러운 등장 애니메이션 */
+@keyframes riseIn {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.rise-in {
+  animation: riseIn 0.8s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+/* ===== 메인 히어로 움직이는 요소 ===== */
+
+/* 배경 불꽃 그라데이션 오라가 천천히 떠다니며 숨쉬듯 확대·축소 */
+@keyframes auraDrift {
+  0% {
+    transform: translate3d(0, 0, 0) scale(1);
+    opacity: 0.85;
+  }
+  50% {
+    transform: translate3d(-3%, 4%, 0) scale(1.12);
+    opacity: 1;
+  }
+  100% {
+    transform: translate3d(0, 0, 0) scale(1);
+    opacity: 0.85;
+  }
+}
+.aura-drift {
+  animation: auraDrift 14s ease-in-out infinite;
+  will-change: transform, opacity;
+}
+
+/* 엠블럼이 아주 천천히 위아래로 부유 */
+@keyframes floatSlow {
+  0% {
+    transform: translateY(0) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-16px) rotate(1.5deg);
+  }
+  100% {
+    transform: translateY(0) rotate(0deg);
+  }
+}
+.float-slow {
+  animation: floatSlow 9s ease-in-out infinite;
+  will-change: transform;
+}
+
+/* 불씨(ember) 입자가 아래에서 위로 떠오르며 사라짐 */
+@keyframes emberRise {
+  0% {
+    transform: translateY(0) scale(0.6);
+    opacity: 0;
+  }
+  12% {
+    opacity: 0.9;
+  }
+  70% {
+    opacity: 0.7;
+  }
+  100% {
+    transform: translateY(-620px) scale(1.15);
+    opacity: 0;
+  }
+}
+.ember {
+  position: absolute;
+  bottom: -20px;
+  height: 7px;
+  width: 7px;
+  border-radius: 9999px;
+  background: radial-gradient(
+    circle,
+    rgba(255, 176, 102, 0.95) 0%,
+    rgba(224, 122, 47, 0.75) 45%,
+    transparent 72%
+  );
+  filter: blur(0.4px);
+  animation: emberRise 9s linear infinite;
+  will-change: transform, opacity;
+  pointer-events: none;
+}
+
+/* 스크롤을 유도하는 아래 화살표 바운스 */
+@keyframes scrollBob {
+  0%,
+  100% {
+    transform: translateY(0);
+    opacity: 0.55;
+  }
+  50% {
+    transform: translateY(8px);
+    opacity: 1;
+  }
+}
+.scroll-bob {
+  animation: scrollBob 1.8s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .rise-in,
+  .aura-drift,
+  .float-slow,
+  .ember,
+  .scroll-bob {
+    animation: none;
+  }
+  .ember {
+    display: none;
+  }
+}

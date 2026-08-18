@@ -1,0 +1,298 @@
+{
+  "Meta": {
+    "homeTitle": "Tahanan",
+    "homeDescription": "Nanaimo Native Victory Church — isang komunidad na nakasentro kay Cristo sa Vancouver Island, na naglilingkod at sumasabay sa mga First Nations na mamamayan ng lupaing ito."
+  },
+  "Nav": {
+    "home": "Tahanan",
+    "churchInfo": "Tungkol sa Simbahan",
+    "intro": "Ang Aming Simbahan",
+    "history": "Kasaysayan",
+    "greeting": "Pagbati ng Pastor",
+    "people": "Ang Aming Tauhan",
+    "newFamily": "Bagong Pamilya",
+    "directions": "Mga Direksyon",
+    "worship": "Pagsamba",
+    "ministry": "Ministeryo",
+    "events": "Mga Kaganapan",
+    "media": "Media",
+    "giving": "Pag-aabuloy",
+    "give": "Mag-abuloy"
+  },
+  "Home": {
+    "heroTagline": "Nanaimo, BC · Vancouver Island",
+    "heroTitle": "Nanaimo Native Victory Church",
+    "heroSub": "Ang Nanaimo Native Victory Church ay isang komunidad na nakasentro kay Cristo sa Vancouver Island, na naglilingkod at sumasabay sa mga First Nations na mamamayan ng lupaing ito. Hinahanap namin ang kagalingan, panunumbalik, at pag-asa sa pamamagitan ng pag-ibig ni Jesucristo, na ginagabayan ng kababaang-loob, panalangin, at tunay na relasyon.",
+    "heroMessages": [
+      "Ang paglalakbay ng ebanghelyo na nagsimula kasama ng mga First Nations ng lupaing ito mahigit 60 taon na ang nakalilipas — hanggang ngayon ay magkasabay pa rin kaming naglalakad.",
+      "Kung saan may sugat, ipinapanalangin namin ang kagalingan at panunumbalik ni Jesucristo.",
+      "Dinadala namin sa panalangin ang lahat ng 53 na bansa ng Vancouver Island — bawat pangalan."
+    ],
+    "heroCta1": "Bumisita at Manalangin",
+    "heroCta2": "Kilalanin ang Aming Tauhan",
+    "pastorLabel": "Punong Pastor",
+    "pastorName": "Rev. Joon Cho",
+    "pastorLink": "Kilalanin ang Aming Tauhan",
+    "eventsTitle": "Mga Darating na Kaganapan",
+    "events": [
+      {
+        "name": "Serbisyo para sa Matatanda",
+        "time": "3nh"
+      },
+      {
+        "name": "Serbisyo para sa Kabataan",
+        "time": "1nh"
+      },
+      {
+        "name": "Serbisyo para sa mga Bata",
+        "time": "1nh"
+      }
+    ],
+    "ctaTitle": "Bumisita at Manalangin",
+    "ctaBody": "471 Irwin Street, Nanaimo, BC, V9R 4X9",
+    "ctaVisit": "Bumisita at Manalangin",
+    "ctaGive": "Mag-abuloy"
+  },
+  "About": {
+    "eyebrow": "Tungkol sa Simbahan",
+    "title": "Ang Aming Simbahan",
+    "introLabel": "Maligayang Pagdating",
+    "introBody": "Ang Nanaimo Native Victory Church ay isang komunidad na nakasentro kay Cristo sa Vancouver Island, na naglilingkod at sumasabay sa mga First Nations na mamamayan ng lupaing ito. Hinahanap namin ang kagalingan, panunumbalik, at pag-asa sa pamamagitan ng pag-ibig ni Jesucristo, na ginagabayan ng kababaang-loob, panalangin, at tunay na relasyon.",
+    "visionLabel": "Pananaw",
+    "visionBody": "Kami ay nakatuon sa pagbabahagi ng ebanghelyo ni Jesucristo at sa pagtatatag ng simbahan ng Diyos sa lahat ng 53 na katutubong tribo sa buong Vancouver Island. Ang Nanaimo Central Church ay bahagi ng pananaw na ito, na nakikibahagi sa ministeryo sa mga katutubo sa buong Vancouver Island at hilagang British Columbia.",
+    "ministriesLabel": "Mga Ministeryo",
+    "ministries": [
+      "Ministeryo para sa Katutubong Matatanda",
+      "Ministeryo para sa Katutubong Kabataan",
+      "Katutubong Susunod na Henerasyon",
+      "Food Bank"
+    ],
+    "partnersLabel": "Mga Kasosyong Simbahan",
+    "partners": [
+      "Fort Rupert Church",
+      "Glad Tidings Church"
+    ]
+  },
+  "History": {
+    "eyebrow": "Tungkol sa Simbahan",
+    "title": "Kasaysayan",
+    "body": [
+      "Ang Nanaimo Native Victory Church ay itinatag mahigit 60 taon na ang nakalilipas ni Pastor Carl Miller kasama ang mga katutubong mamamayan ng Nanaimo. Sa panahong iyon, aktibong nakibahagi ang simbahan sa pagbawi sa mga katutubong bata na dinadala sa mga residential school, at sa loob ng maraming dekada ay nagsikap ito para sa karapatan, kapakanan, at misyon sa mga katutubo.",
+      "Ang Nanaimo Native Victory Church ay kaanib ng The Pentecostal Assemblies of Canada (PAOC), ang pinakamalaking denominasyong ebanghelikal sa Canada at isang teolohikong konserbatibong samahan. Ang mga kinatawang simbahan sa loob ng denominasyong ito sa nakapaligid na rehiyon ay kinabibilangan ng Nanaimo Generation Church, Vancouver Broadway Church, Langley CLA, at Victoria Coastline Church. Ang PAOC ay may kapatiran sa denominasyong Yoido Full Gospel Church sa Korea at sa denominasyong Assemblies of God sa Estados Unidos."
+    ],
+    "milestones": [
+      {
+        "year": "60+ taon na ang nakalilipas",
+        "title": "Itinatag ang Simbahan",
+        "desc": "Itinatag ni Pastor Carl Miller kasama ang mga katutubong mamamayan ng Nanaimo."
+      },
+      {
+        "year": "2018",
+        "title": "Nanaimo Central Church",
+        "desc": "Nagsimulang sumamba nang magkakasama ang komunidad ng mga Koreano bilang bahagi ng Nanaimo Native Victory Church."
+      }
+    ]
+  },
+  "Greeting": {
+    "eyebrow": "Tungkol sa Simbahan",
+    "title": "Pagbati ng Pastor",
+    "body": [
+      "Maligayang pagdating sa Nanaimo Native Victory Church. Labis kaming natutuwa na natagpuan ninyo kami.",
+      "Sa loob ng mahigit animnapung taon, sumabay ang simbahang ito sa mga First Nations na mamamayan ng Vancouver Island, na hinahanap ang kagalingan, panunumbalik, at pag-asa sa pamamagitan ng pag-ibig ni Jesucristo. Ang panawagang iyon ang humuhubog pa rin sa lahat ng ginagawa namin ngayon.",
+      "Ikaw man ay bumibisita, naghahanap, o naghahanap ng tahanang espirituwal — malugod kang tinatanggap dito kung ano ka. Halika at sumamba kasama namin, at nawa'y maranasan mo ang biyaya ng Diyos sa komunidad na ito."
+    ],
+    "signName": "Rev. Joon Cho",
+    "signRole": "Punong Pastor, Nanaimo Native Victory Church"
+  },
+  "Events": {
+    "eyebrow": "Gabay sa Pagsamba",
+    "title": "Pagsamba at mga Kaganapan",
+    "intro": "Mga oras ng serbisyo, mga regular na pagtitipon, at mga darating na kaganapan sa Nanaimo Native Victory Church.",
+    "recurringLabel": "Mga Regular na Pagtitipon",
+    "recurring": [
+      {
+        "name": "Serbisyo para sa Matatanda tuwing Linggo",
+        "time": "Linggo 3:00 nh"
+      },
+      {
+        "name": "Serbisyo para sa Kabataan",
+        "time": "Linggo 1:00 nh"
+      },
+      {
+        "name": "Serbisyo para sa mga Bata",
+        "time": "Linggo 1:00 nh"
+      }
+    ],
+    "upcomingLabel": "Mga Darating na Kaganapan",
+    "upcoming": [
+      {
+        "date": "Abril 5, 2026 (Lin)",
+        "title": "Pinagsamang Serbisyo sa Pasko ng Pagkabuhay",
+        "time": "10:30 nu",
+        "location": "Santuwaryo · 471 Irwin Street",
+        "desc": "Isang pinagsamang serbisyo na nagdiriwang sa galak ng muling pagkabuhay, na susundan ng pakikisalamuha."
+      },
+      {
+        "date": "Hulyo 18–20, 2026",
+        "title": "Kampo ng Ministeryo sa mga Katutubo sa Tag-init",
+        "time": "3 araw",
+        "location": "Vancouver Island",
+        "desc": "Isang panandaliang kampo sa tag-init na naglilingkod sa mga katutubong tribo ng Vancouver Island."
+      },
+      {
+        "date": "Oktubre 11, 2026 (Lin)",
+        "title": "Linggo ng Pasasalamat",
+        "time": "10:30 nu",
+        "location": "Santuwaryo · 471 Irwin Street",
+        "desc": "Nagpapasalamat sa biyaya ng taon, sumasamba at nagbabahagi nang magkakasama."
+      },
+      {
+        "date": "Disyembre 24, 2026 (Miy)",
+        "title": "Serbisyo sa Bisperas ng Pasko",
+        "time": "7:00 nh",
+        "location": "Santuwaryo · 471 Irwin Street",
+        "desc": "Isang serbisyo na may kandila na sumasalubong sa pagdating ni Jesucristo."
+      }
+    ],
+    "empty": "Walang nakatakdang darating na kaganapan.",
+    "cta": "Bumisita at Manalangin"
+  },
+  "Media": {
+    "eyebrow": "Mga Video at Balita",
+    "title": "Media",
+    "intro": "Mga video at balita tungkol sa Nanaimo Native Victory Church at sa ministeryo nito sa mga katutubo sa Vancouver Island.",
+    "videosLabel": "Mga Video",
+    "videos": [
+      {
+        "title": "Magandang pastoral house, ngunit walang pastor? · Canada Road Trip [Bahagi 1]",
+        "channel": "유목민이야기"
+      },
+      {
+        "title": "Ang lola na may puting buhok na nag-alaga sa simbahan sa loob ng 20 taon · Canada Road Trip [Bahagi 2]",
+        "channel": "유목민이야기"
+      },
+      {
+        "title": "Bakit napakahirap ng misyon sa First Nations ng Canada? — Nanaimo Native Victory Church [Bahagi 1]",
+        "channel": "유목민이야기"
+      },
+      {
+        "title": "Pagpasok sa isang katutubong nayon · Ang benepisyo ng paglipat sa Canada — Nanaimo Native Victory Church [Bahagi 2]",
+        "channel": "유목민이야기"
+      }
+    ],
+    "photosLabel": "Mga Larawan",
+    "photos": [
+      {
+        "caption": "Bautismo sa tabi ng lawa — ipinagdiriwang ang bagong hakbang ng pananampalataya."
+      },
+      {
+        "caption": "Isang magkakasamang sandali ng bautismo sa tubig."
+      },
+      {
+        "caption": "Muling pagtatayo ng Fort Rupert Church — magkasamang inaayos ang lumang dingding."
+      },
+      {
+        "caption": "Muling pagtatayo ng Fort Rupert Church — magkasamang itinatayo ang lugar ng pagsamba."
+      }
+    ]
+  },
+  "Ministry": {
+    "eyebrow": "Ministeryo",
+    "title": "Ang Aming mga Ministeryo",
+    "intro": "Pagbabahagi ng ebanghelyo ni Jesucristo at paglilingkod sa mga First Nations na mamamayan sa buong Vancouver Island.",
+    "ministriesLabel": "Mga Ministeryo",
+    "ministries": [
+      "Ministeryo para sa Katutubong Matatanda",
+      "Ministeryo para sa Katutubong Kabataan",
+      "Katutubong Susunod na Henerasyon",
+      "Food Bank"
+    ],
+    "visionLabel": "Ang Aming Pananaw",
+    "visionCaption": "Na maabot at makita ang isang malusog na komunidad ng mga mananampalataya sa lahat ng 53 na First Nations na tribo sa Vancouver Island — dinadala ang bawat pangalan sa panalangin.",
+    "churchesLabel": "Ang Aming mga Simbahan",
+    "churches": [
+      {
+        "name": "Nanaimo Native Victory Church",
+        "location": "Nanaimo"
+      },
+      {
+        "name": "Glad Tidings Church",
+        "location": "Alert Bay"
+      },
+      {
+        "name": "Fort Rupert Church",
+        "location": "Fort Rupert"
+      }
+    ],
+    "cta": "Bumisita at Manalangin"
+  },
+  "Leadership": {
+    "eyebrow": "Tungkol sa Simbahan",
+    "title": "Ang Aming Tauhan",
+    "name": "Rev. Joon Cho",
+    "role1": "Punong Pastor",
+    "org1": "Nanaimo Native Victory Church",
+    "role2": "Executive Director / Tagapangulo",
+    "org2": "153 Mission Society",
+    "teamLabel": "Ang Aming Koponan",
+    "members": [
+      "Punong Pastor",
+      "Matatanda at Food Bank",
+      "Pastor ng Kabataan",
+      "Rehiyonal na Direktor",
+      "Rehiyonal na Direktor",
+      "Honorary na Pastor"
+    ]
+  },
+  "Visit": {
+    "eyebrow": "Tungkol sa Simbahan",
+    "title": "Mga Direksyon at Pagbisita",
+    "addressLabel": "Address",
+    "address": "471 Irwin Street, Nanaimo, BC, V9R 4X9",
+    "charity": "Charity #: 107759094RR0001",
+    "serviceLabel": "Mga Oras ng Serbisyo",
+    "services": [
+      "Serbisyo para sa Matatanda tuwing Linggo 3:00 nh",
+      "Serbisyo para sa Kabataan tuwing Linggo 1:00 nh",
+      "Serbisyo para sa mga Bata tuwing Linggo 1:00 nh"
+    ],
+    "phoneLabel": "Numero ng Telepono",
+    "phone": "(250) 754-7866",
+    "emailLabel": "Email",
+    "email": "office.nnvc@gmail.com",
+    "formTitle": "Kahilingang Panalangin at Anumang Katanungan",
+    "firstName": "Pangalan",
+    "lastName": "Apelyido",
+    "phoneField": "Telepono",
+    "message": "Mensahe",
+    "submit": "Ipadala",
+    "formThanks": "Salamat. Bubuksan ng inyong email app upang maipadala ang inyong mensahe."
+  },
+  "Give": {
+    "eyebrow": "Pag-aabuloy",
+    "title": "Pag-aabuloy",
+    "supportTitle": "Sumama sa Amin nang May Mainit na Puso",
+    "body": [
+      "Ang ministeryo sa mga katutubo ng Nanaimo Native Victory Church ay nagpapatuloy sa pamamagitan ng inyong mga panalangin at suporta.",
+      "Ang bawat handog, gaano man kaliit, ay nagiging mahalagang binhi na nagdadala ng pag-ibig ni Jesucristo sa mga First Nations na kapitbahay sa buong Vancouver Island. Labis kaming nagpapasalamat sa bawat kasosyo na sumasabay sa amin."
+    ],
+    "methodEyebrow": "CANADA",
+    "methodTitle": "Canada e-Transfer (EFT)",
+    "methodDesc": "Maaari kayong mag-abuloy sa pamamagitan ng Interac e-Transfer. Mangyaring ipadala sa email sa ibaba.",
+    "email": "office.nnvc@gmail.com",
+    "charity": "Charity #: 107759094RR0001",
+    "thanks": "Ang inyong handog ay sumusuporta sa ministeryo sa mga katutubo sa buong Vancouver Island."
+  },
+  "Footer": {
+    "tagline": "Ang Nanaimo Native Victory Church ay isang komunidad na nakasentro kay Cristo sa Vancouver Island, na naglilingkod at sumasabay sa mga First Nations na mamamayan ng lupaing ito.",
+    "charity": "Charity #: 107759094RR0001",
+    "quickLinks": "Mabilisang Link",
+    "contactTitle": "Makipag-ugnayan",
+    "rights": "© 2026 Nanaimo Native Victory Church. Nakalaan ang lahat ng karapatan."
+  },
+  "Contact": {
+    "address": "471 Irwin Street, Nanaimo, BC, V9R 4X9",
+    "phone": "(250) 754-7866",
+    "email": "office.nnvc@gmail.com"
+  }
+}

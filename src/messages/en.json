@@ -1,0 +1,298 @@
+{
+  "Meta": {
+    "homeTitle": "Home",
+    "homeDescription": "Nanaimo Native Victory Church — a Christ-centered community on Vancouver Island, serving and walking alongside the First Nations peoples of this land."
+  },
+  "Nav": {
+    "home": "Home",
+    "churchInfo": "About the Church",
+    "intro": "Our Church",
+    "history": "History",
+    "greeting": "Pastor's Greeting",
+    "people": "Our People",
+    "newFamily": "New Family",
+    "directions": "Directions",
+    "worship": "Worship",
+    "ministry": "Ministry",
+    "events": "Events",
+    "media": "Media",
+    "giving": "Giving",
+    "give": "Donate"
+  },
+  "Home": {
+    "heroTagline": "Nanaimo, BC · Vancouver Island",
+    "heroTitle": "Nanaimo Native Victory Church",
+    "heroSub": "Nanaimo Native Victory Church is a Christ-centered community on Vancouver Island, serving and walking alongside the First Nations peoples of this land. We seek healing, restoration, and hope through the love of Jesus Christ, guided by humility, prayer, and genuine relationship.",
+    "heroMessages": [
+      "The gospel journey that began with the First Nations of this land over 60 years ago — we still walk it side by side today.",
+      "Where there is woundedness, we pray for the healing and restoration of Jesus Christ.",
+      "We carry all 53 nations of Vancouver Island — every name — in prayer."
+    ],
+    "heroCta1": "Visit & Prayer",
+    "heroCta2": "Meet Our Staff",
+    "pastorLabel": "Lead Pastor",
+    "pastorName": "Rev. Joon Cho",
+    "pastorLink": "Meet Our Staff",
+    "eventsTitle": "Upcoming Events",
+    "events": [
+      {
+        "name": "Adult Service",
+        "time": "3pm"
+      },
+      {
+        "name": "Youth Service",
+        "time": "1pm"
+      },
+      {
+        "name": "Children's Service",
+        "time": "1pm"
+      }
+    ],
+    "ctaTitle": "Visit & Prayer",
+    "ctaBody": "471 Irwin Street, Nanaimo, BC, V9R 4X9",
+    "ctaVisit": "Visit & Prayer",
+    "ctaGive": "Donate"
+  },
+  "About": {
+    "eyebrow": "About the Church",
+    "title": "Our Church",
+    "introLabel": "Welcome",
+    "introBody": "Nanaimo Native Victory Church is a Christ-centered community on Vancouver Island, serving and walking alongside the First Nations peoples of this land. We seek healing, restoration, and hope through the love of Jesus Christ, guided by humility, prayer, and genuine relationship.",
+    "visionLabel": "Vision",
+    "visionBody": "We are committed to sharing the gospel of Jesus Christ and building God's church among all 53 Indigenous tribes across Vancouver Island. Nanaimo Central Church joins in this vision, partnering in Indigenous ministry throughout Vancouver Island and northern British Columbia.",
+    "ministriesLabel": "Ministries",
+    "ministries": [
+      "Native Adult Ministry",
+      "Native Youth Ministry",
+      "Native Next Generation",
+      "Food Bank"
+    ],
+    "partnersLabel": "Partner Churches",
+    "partners": [
+      "Fort Rupert Church",
+      "Glad Tidings Church"
+    ]
+  },
+  "History": {
+    "eyebrow": "About the Church",
+    "title": "History",
+    "body": [
+      "Nanaimo Native Victory Church was founded over 60 years ago by Pastor Carl Miller together with the Nanaimo Indigenous people. At that time, the church was actively involved in reclaiming Indigenous children who were being taken to residential schools, and for decades it has worked for Indigenous rights, welfare, and Indigenous missions.",
+      "Nanaimo Native Victory Church is affiliated with The Pentecostal Assemblies of Canada (PAOC), the largest evangelical denomination in Canada and a theologically conservative body. Representative churches within this denomination in the surrounding region include Nanaimo Generation Church, Vancouver Broadway Church, Langley CLA, and Victoria Coastline Church. The PAOC is in sister fellowship with the Yoido Full Gospel Church denomination in Korea and the Assemblies of God denomination in the United States."
+    ],
+    "milestones": [
+      {
+        "year": "60+ years ago",
+        "title": "Church Founded",
+        "desc": "Founded by Pastor Carl Miller together with the Nanaimo Indigenous people."
+      },
+      {
+        "year": "2018",
+        "title": "Nanaimo Central Church",
+        "desc": "The Korean community began worshipping together as part of Nanaimo Native Victory Church."
+      }
+    ]
+  },
+  "Greeting": {
+    "eyebrow": "About the Church",
+    "title": "Pastor's Greeting",
+    "body": [
+      "Welcome to Nanaimo Native Victory Church. We are so glad you have found us.",
+      "For over sixty years, this church has walked alongside the First Nations peoples of Vancouver Island, seeking healing, restoration, and hope through the love of Jesus Christ. That calling still shapes everything we do today.",
+      "Whether you are visiting, searching, or looking for a church home, you are welcome here just as you are. Come and worship with us, and may you experience the grace of God among this community."
+    ],
+    "signName": "Rev. Joon Cho",
+    "signRole": "Lead Pastor, Nanaimo Native Victory Church"
+  },
+  "Events": {
+    "eyebrow": "Worship Guide",
+    "title": "Worship & Events",
+    "intro": "Service times, regular gatherings, and upcoming events at Nanaimo Native Victory Church.",
+    "recurringLabel": "Regular Gatherings",
+    "recurring": [
+      {
+        "name": "Adult Sunday Service",
+        "time": "Sundays 3:00 pm"
+      },
+      {
+        "name": "Youth Worship",
+        "time": "Sundays 1:00 pm"
+      },
+      {
+        "name": "Children's Worship",
+        "time": "Sundays 1:00 pm"
+      }
+    ],
+    "upcomingLabel": "Upcoming Events",
+    "upcoming": [
+      {
+        "date": "April 5, 2026 (Sun)",
+        "title": "Easter Combined Service",
+        "time": "10:30 am",
+        "location": "Sanctuary · 471 Irwin Street",
+        "desc": "A combined service celebrating the joy of the resurrection, followed by fellowship."
+      },
+      {
+        "date": "July 18–20, 2026",
+        "title": "Summer Indigenous Ministry Camp",
+        "time": "3 days",
+        "location": "Vancouver Island",
+        "desc": "A short-term summer camp serving the Indigenous tribes of Vancouver Island."
+      },
+      {
+        "date": "October 11, 2026 (Sun)",
+        "title": "Thanksgiving Sunday",
+        "time": "10:30 am",
+        "location": "Sanctuary · 471 Irwin Street",
+        "desc": "Giving thanks for the year's grace, worshipping and sharing together."
+      },
+      {
+        "date": "December 24, 2026 (Wed)",
+        "title": "Christmas Eve Service",
+        "time": "7:00 pm",
+        "location": "Sanctuary · 471 Irwin Street",
+        "desc": "A candlelight service welcoming the coming of Jesus Christ."
+      }
+    ],
+    "empty": "No upcoming events scheduled.",
+    "cta": "Visit & Prayer"
+  },
+  "Media": {
+    "eyebrow": "Videos & Press",
+    "title": "Media",
+    "intro": "Videos and news coverage of Nanaimo Native Victory Church and its Indigenous ministry on Vancouver Island.",
+    "videosLabel": "Videos",
+    "videos": [
+      {
+        "title": "A good parsonage, but no pastor? · Canada Road Trip [Part 1]",
+        "channel": "유목민이야기"
+      },
+      {
+        "title": "The white-haired grandmother who kept the church for 20 years · Canada Road Trip [Part 2]",
+        "channel": "유목민이야기"
+      },
+      {
+        "title": "Why is mission to Canada's First Nations so difficult? — Nanaimo Native Victory Church [Part 1]",
+        "channel": "유목민이야기"
+      },
+      {
+        "title": "Entering an Indigenous village · The upside of immigrating to Canada — Nanaimo Native Victory Church [Part 2]",
+        "channel": "유목민이야기"
+      }
+    ],
+    "photosLabel": "Photos",
+    "photos": [
+      {
+        "caption": "Baptism by the lake — celebrating a new step of faith."
+      },
+      {
+        "caption": "A shared moment of baptism in the water."
+      },
+      {
+        "caption": "Rebuilding Fort Rupert Church — restoring the old siding together."
+      },
+      {
+        "caption": "Rebuilding Fort Rupert Church — building a place of worship together."
+      }
+    ]
+  },
+  "Ministry": {
+    "eyebrow": "Ministry",
+    "title": "Our Ministries",
+    "intro": "Sharing the gospel of Jesus Christ and serving the First Nations peoples across Vancouver Island.",
+    "ministriesLabel": "Ministries",
+    "ministries": [
+      "Native Adult Ministry",
+      "Native Youth Ministry",
+      "Native Next Generation",
+      "Food Bank"
+    ],
+    "visionLabel": "Our Vision",
+    "visionCaption": "To reach out and see a healthy community of believers in all 53 First Nations tribes on Vancouver Island — carrying every name in prayer.",
+    "churchesLabel": "Our Churches",
+    "churches": [
+      {
+        "name": "Nanaimo Native Victory Church",
+        "location": "Nanaimo"
+      },
+      {
+        "name": "Glad Tidings Church",
+        "location": "Alert Bay"
+      },
+      {
+        "name": "Fort Rupert Church",
+        "location": "Fort Rupert"
+      }
+    ],
+    "cta": "Visit & Prayer"
+  },
+  "Leadership": {
+    "eyebrow": "About the Church",
+    "title": "Our People",
+    "name": "Rev. Joon Cho",
+    "role1": "Lead Pastor",
+    "org1": "Nanaimo Native Victory Church",
+    "role2": "Executive Director / Chairman",
+    "org2": "153 Mission Society",
+    "teamLabel": "Our Team",
+    "members": [
+      "Lead Pastor",
+      "Adult & Food Bank",
+      "Youth Pastor",
+      "Regional Director",
+      "Regional Director",
+      "Honorary Pastor"
+    ]
+  },
+  "Visit": {
+    "eyebrow": "About the Church",
+    "title": "Directions & Visit",
+    "addressLabel": "Address",
+    "address": "471 Irwin Street, Nanaimo, BC, V9R 4X9",
+    "charity": "Charity #: 107759094RR0001",
+    "serviceLabel": "Service Times",
+    "services": [
+      "Adult Sunday Service 3:00 pm",
+      "Youth Sunday Service 1:00 pm",
+      "Children's Sunday Service 1:00 pm"
+    ],
+    "phoneLabel": "Phone Number",
+    "phone": "(250) 754-7866",
+    "emailLabel": "Email",
+    "email": "office.nnvc@gmail.com",
+    "formTitle": "Prayer Request & For Any Inquiry",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "phoneField": "Phone",
+    "message": "Message",
+    "submit": "Submit",
+    "formThanks": "Thank you. Your email app should open to send your message."
+  },
+  "Give": {
+    "eyebrow": "Giving",
+    "title": "Giving",
+    "supportTitle": "Join Us with a Warm Heart",
+    "body": [
+      "The Indigenous ministry of Nanaimo Native Victory Church continues through your prayers and support.",
+      "Every gift, however small, becomes a precious seed that carries the love of Jesus Christ to First Nations neighbours across Vancouver Island. We are deeply grateful for every partner who walks alongside us."
+    ],
+    "methodEyebrow": "CANADA",
+    "methodTitle": "Canada e-Transfer (EFT)",
+    "methodDesc": "You can give by Interac e-Transfer. Please send to the email below.",
+    "email": "office.nnvc@gmail.com",
+    "charity": "Charity #: 107759094RR0001",
+    "thanks": "Your gift supports Indigenous ministry across Vancouver Island."
+  },
+  "Footer": {
+    "tagline": "Nanaimo Native Victory Church is a Christ-centered community on Vancouver Island, serving and walking alongside the First Nations peoples of this land.",
+    "charity": "Charity #: 107759094RR0001",
+    "quickLinks": "Quick Links",
+    "contactTitle": "Contact",
+    "rights": "© 2026 Nanaimo Native Victory Church. All rights reserved."
+  },
+  "Contact": {
+    "address": "471 Irwin Street, Nanaimo, BC, V9R 4X9",
+    "phone": "(250) 754-7866",
+    "email": "office.nnvc@gmail.com"
+  }
+}

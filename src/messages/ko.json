@@ -1,0 +1,298 @@
+{
+  "Meta": {
+    "homeTitle": "홈",
+    "homeDescription": "Nanaimo Native Victory Church — 밴쿠버 아일랜드에서 이 땅의 원주민(First Nations)을 섬기며 함께 걷는, 그리스도 중심의 공동체입니다."
+  },
+  "Nav": {
+    "home": "홈",
+    "churchInfo": "교회 소개",
+    "intro": "우리 교회",
+    "history": "교회 역사",
+    "greeting": "목사님 인사",
+    "people": "섬기는 분들",
+    "newFamily": "새가족",
+    "directions": "오시는 길",
+    "worship": "예배",
+    "ministry": "사역",
+    "events": "행사",
+    "media": "미디어",
+    "giving": "후원 안내",
+    "give": "후원"
+  },
+  "Home": {
+    "heroTagline": "캐나다 BC주 나나이모 · 밴쿠버 아일랜드",
+    "heroTitle": "Nanaimo Native Victory Church",
+    "heroSub": "Nanaimo Native Victory Church는 밴쿠버 아일랜드에서 이 땅의 원주민(First Nations)을 섬기며 함께 걷는, 그리스도 중심의 공동체입니다. 우리는 겸손과 기도, 그리고 진실한 관계 안에서 예수 그리스도의 사랑을 통해 치유와 회복, 소망을 구합니다.",
+    "heroMessages": [
+      "60여 년 전 이 땅의 원주민들과 함께 시작된 복음의 걸음을, 오늘도 나란히 걷습니다.",
+      "상처의 자리마다 예수 그리스도의 치유와 회복이 임하기를 기도합니다.",
+      "밴쿠버 아일랜드 53개 부족, 그 모든 이름을 마음에 품고 기도합니다."
+    ],
+    "heroCta1": "방문·기도",
+    "heroCta2": "섬기는 분들 보기",
+    "pastorLabel": "담임목사",
+    "pastorName": "Rev. Joon Cho",
+    "pastorLink": "섬기는 분들 보기",
+    "eventsTitle": "다가오는 행사",
+    "events": [
+      {
+        "name": "성인예배",
+        "time": "오후 3시"
+      },
+      {
+        "name": "청소년예배",
+        "time": "오후 1시"
+      },
+      {
+        "name": "어린이예배",
+        "time": "오후 1시"
+      }
+    ],
+    "ctaTitle": "방문·기도",
+    "ctaBody": "471 Irwin Street, Nanaimo, BC, V9R 4X9",
+    "ctaVisit": "방문·기도",
+    "ctaGive": "후원"
+  },
+  "About": {
+    "eyebrow": "교회 소개",
+    "title": "우리 교회",
+    "introLabel": "환영합니다",
+    "introBody": "Nanaimo Native Victory Church는 밴쿠버 아일랜드에서 이 땅의 원주민(First Nations)을 섬기며 함께 걷는, 그리스도 중심의 공동체입니다. 우리는 겸손과 기도, 그리고 진실한 관계 안에서 예수 그리스도의 사랑을 통해 치유와 회복, 소망을 구합니다.",
+    "visionLabel": "비전",
+    "visionBody": "우리는 예수 그리스도의 복음을 전하고 밴쿠버 아일랜드 전역의 53개 원주민 부족 가운데 하나님의 교회를 세우는 데 헌신하고 있습니다. Nanaimo Central Church도 이 비전에 동참하여 밴쿠버 아일랜드와 북부 브리티시컬럼비아 전역에서 원주민 사역을 함께 감당하고 있습니다.",
+    "ministriesLabel": "사역",
+    "ministries": [
+      "원주민 성인 사역",
+      "원주민 청소년 사역",
+      "원주민 다음세대",
+      "푸드뱅크"
+    ],
+    "partnersLabel": "함께하는 교회",
+    "partners": [
+      "Fort Rupert Church",
+      "Glad Tidings Church"
+    ]
+  },
+  "History": {
+    "eyebrow": "교회 소개",
+    "title": "교회 역사",
+    "body": [
+      "Nanaimo Native Victory Church는 60여 년 전 Carl Miller 목사님과 나나이모 원주민들에 의해 개척된 교회입니다. 당시 기숙학교에 끌려가는 원주민 아이들을 다시 되찾아 오는 등, 지난 수십 년간 원주민의 권리와 복지, 그리고 원주민 선교를 위해 힘써 왔습니다.",
+      "Nanaimo Native Victory Church는 캐나다에서 가장 큰 복음주의 교단이자 신학적으로 보수적인 The Pentecostal Assemblies of Canada(PAOC)에 소속되어 있습니다. 본 교단에 소속되어 있는 대표적인 주변 교회들은 나나이모 Generation Church, 밴쿠버 Broadway Church, 랭리 CLA, 빅토리아 Coast Line Church 등이 있으며, PAOC 교단은 한국 순복음교단 그리고 미국 Assemblies of God 교단과 자매결연이 맺어져 있습니다."
+    ],
+    "milestones": [
+      {
+        "year": "60여 년 전",
+        "title": "교회 개척",
+        "desc": "Carl Miller 목사님과 나나이모 원주민들에 의해 개척되었습니다."
+      },
+      {
+        "year": "2018년",
+        "title": "Nanaimo Central Church",
+        "desc": "한인 공동체가 Nanaimo Native Victory Church의 일원으로 함께 예배하기 시작했습니다."
+      }
+    ]
+  },
+  "Greeting": {
+    "eyebrow": "교회 소개",
+    "title": "목사님 인사",
+    "body": [
+      "Nanaimo Native Victory Church를 찾아주신 여러분을 진심으로 환영합니다.",
+      "우리 교회는 60여 년간 밴쿠버 아일랜드의 원주민(First Nations)들과 함께 걸으며, 예수 그리스도의 사랑 안에서 치유와 회복과 소망을 구해 왔습니다. 그 부르심은 오늘도 우리의 모든 사역을 이끌고 있습니다.",
+      "예배하러 오시든, 무언가를 찾고 계시든, 마음 둘 교회를 찾고 계시든 — 있는 모습 그대로 환영합니다. 함께 예배하며 이 공동체 안에서 하나님의 은혜를 경험하시길 바랍니다."
+    ],
+    "signName": "Rev. Joon Cho",
+    "signRole": "담임목사, Nanaimo Native Victory Church"
+  },
+  "Events": {
+    "eyebrow": "예배안내",
+    "title": "예배·행사 안내",
+    "intro": "Nanaimo Native Victory Church의 예배 시간과 정기 모임, 다가오는 행사를 안내합니다.",
+    "recurringLabel": "정기 모임",
+    "recurring": [
+      {
+        "name": "주일 성인예배",
+        "time": "일요일 오후 3시"
+      },
+      {
+        "name": "청소년 예배",
+        "time": "일요일 오후 1시"
+      },
+      {
+        "name": "어린이 예배",
+        "time": "일요일 오후 1시"
+      }
+    ],
+    "upcomingLabel": "다가오는 행사",
+    "upcoming": [
+      {
+        "date": "2026년 4월 5일 (주일)",
+        "title": "부활절 연합예배",
+        "time": "오전 10시 30분",
+        "location": "본당 · 471 Irwin Street",
+        "desc": "부활의 기쁨을 함께 나누는 연합예배로 드립니다. 예배 후 성도의 교제가 있습니다."
+      },
+      {
+        "date": "2026년 7월 18일 – 20일",
+        "title": "여름 원주민 사역 캠프",
+        "time": "3일간",
+        "location": "밴쿠버 아일랜드",
+        "desc": "밴쿠버 아일랜드 원주민 부족을 섬기는 여름 단기 사역 캠프입니다."
+      },
+      {
+        "date": "2026년 10월 11일 (주일)",
+        "title": "추수감사 주일",
+        "time": "오전 10시 30분",
+        "location": "본당 · 471 Irwin Street",
+        "desc": "한 해의 은혜를 감사하며 함께 예배하고 나눔의 자리를 갖습니다."
+      },
+      {
+        "date": "2026년 12월 24일 (수)",
+        "title": "성탄 전야예배",
+        "time": "오후 7시",
+        "location": "본당 · 471 Irwin Street",
+        "desc": "예수 그리스도의 오심을 기다리며 촛불예배로 성탄을 맞이합니다."
+      }
+    ],
+    "empty": "예정된 행사가 없습니다.",
+    "cta": "방문·기도 문의"
+  },
+  "Media": {
+    "eyebrow": "영상·언론",
+    "title": "미디어",
+    "intro": "Nanaimo Native Victory Church와 밴쿠버 아일랜드 원주민 사역을 담은 영상과 언론 보도를 소개합니다.",
+    "videosLabel": "영상",
+    "videos": [
+      {
+        "title": "좋은 사택은 있는데 목회자는 없네요? · 캐나다 로드트립 [1편]",
+        "channel": "유목민이야기"
+      },
+      {
+        "title": "20년 동안 교회를 지켜온 백발의 할머니 · 캐나다 로드트립 [2편]",
+        "channel": "유목민이야기"
+      },
+      {
+        "title": "캐나다 원주민 선교가 어려운 이유는? Nanaimo Native Victory Church [1편]",
+        "channel": "유목민이야기"
+      },
+      {
+        "title": "원주민 마을에 들어가다! · 캐나다 이민의 장점은? Nanaimo Native Victory Church [2편]",
+        "channel": "유목민이야기"
+      }
+    ],
+    "photosLabel": "사진",
+    "photos": [
+      {
+        "caption": "호숫가에서 드린 세례 — 새로운 믿음의 걸음을 축복합니다."
+      },
+      {
+        "caption": "물 속에서 함께한 세례의 순간."
+      },
+      {
+        "caption": "Fort Rupert Church 재건 — 낡은 외벽을 함께 손봅니다."
+      },
+      {
+        "caption": "Fort Rupert Church 재건 — 예배의 자리를 함께 세웁니다."
+      }
+    ]
+  },
+  "Ministry": {
+    "eyebrow": "사역안내",
+    "title": "사역 안내",
+    "intro": "예수 그리스도의 복음을 전하고 밴쿠버 아일랜드 전역의 원주민(First Nations)을 섬깁니다.",
+    "ministriesLabel": "사역",
+    "ministries": [
+      "원주민 성인 사역 (Native Adult Ministry)",
+      "원주민 청소년 사역 (Native Youth Ministry)",
+      "원주민 다음세대 (Native Next Generation)",
+      "푸드뱅크 (Food Bank)"
+    ],
+    "visionLabel": "우리의 비전",
+    "visionCaption": "밴쿠버 아일랜드 53개 원주민 부족 — 그 모든 이름을 마음에 품고, 건강한 믿음의 공동체가 세워지기를 소망합니다.",
+    "churchesLabel": "함께하는 교회",
+    "churches": [
+      {
+        "name": "Nanaimo Native Victory Church",
+        "location": "Nanaimo"
+      },
+      {
+        "name": "Glad Tidings Church",
+        "location": "Alert Bay"
+      },
+      {
+        "name": "Fort Rupert Church",
+        "location": "Fort Rupert"
+      }
+    ],
+    "cta": "방문·기도 문의"
+  },
+  "Leadership": {
+    "eyebrow": "교회 소개",
+    "title": "섬기는 분들",
+    "name": "Rev. Joon Cho",
+    "role1": "담임목사",
+    "org1": "Nanaimo Native Victory Church",
+    "role2": "사무총장 / 이사장",
+    "org2": "153 Mission Society",
+    "teamLabel": "함께 섬기는 분들",
+    "members": [
+      "담임목사",
+      "장년부 & 푸드뱅크",
+      "청소년부 목사",
+      "지역 디렉터",
+      "지역 디렉터",
+      "명예 목사"
+    ]
+  },
+  "Visit": {
+    "eyebrow": "교회 소개",
+    "title": "오시는 길",
+    "addressLabel": "주소",
+    "address": "471 Irwin Street, Nanaimo, BC, V9R 4X9",
+    "charity": "Charity #: 107759094RR0001",
+    "serviceLabel": "예배안내",
+    "services": [
+      "주일 성인예배 오후 3시",
+      "주일 청소년예배 오후 1시",
+      "주일 어린이예배 오후 1시"
+    ],
+    "phoneLabel": "전화",
+    "phone": "(250) 754-7866",
+    "emailLabel": "이메일",
+    "email": "office.nnvc@gmail.com",
+    "formTitle": "기도 요청 및 문의",
+    "firstName": "이름",
+    "lastName": "성",
+    "phoneField": "전화번호",
+    "message": "내용",
+    "submit": "보내기",
+    "formThanks": "감사합니다. 메일 앱이 열리면 메시지를 보내주세요."
+  },
+  "Give": {
+    "eyebrow": "후원 안내",
+    "title": "후원 안내",
+    "supportTitle": "따뜻한 마음으로 함께해 주세요",
+    "body": [
+      "Nanaimo Native Victory Church의 원주민 선교는 여러분의 기도와 후원으로 이어지고 있습니다.",
+      "작은 정성 하나하나가 밴쿠버 아일랜드 전역의 원주민 이웃들에게 예수 그리스도의 사랑을 전하는 귀한 씨앗이 됩니다. 기꺼이 동역해 주시는 여러분께 진심으로 감사드립니다."
+    ],
+    "methodEyebrow": "CANADA",
+    "methodTitle": "캐나다 e-Transfer (EFT)",
+    "methodDesc": "Interac e-Transfer로 후원하실 수 있습니다. 아래 이메일로 송금해 주세요.",
+    "email": "office.nnvc@gmail.com",
+    "charity": "Charity #: 107759094RR0001",
+    "thanks": "여러분의 후원은 밴쿠버 아일랜드 전역의 원주민 사역에 소중하게 쓰입니다."
+  },
+  "Footer": {
+    "tagline": "Nanaimo Native Victory Church는 밴쿠버 아일랜드에서 이 땅의 원주민(First Nations)을 섬기며 함께 걷는, 그리스도 중심의 공동체입니다.",
+    "charity": "Charity #: 107759094RR0001",
+    "quickLinks": "바로가기",
+    "contactTitle": "연락처",
+    "rights": "© 2026 Nanaimo Native Victory Church. All rights reserved."
+  },
+  "Contact": {
+    "address": "471 Irwin Street, Nanaimo, BC, V9R 4X9",
+    "phone": "(250) 754-7866",
+    "email": "office.nnvc@gmail.com"
+  }
+}

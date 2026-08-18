@@ -1,0 +1,298 @@
+{
+  "Meta": {
+    "homeTitle": "首页",
+    "homeDescription": "Nanaimo Native Victory Church — 温哥华岛上一个以基督为中心的群体，服事并与这片土地上的原住民（First Nations）同行。"
+  },
+  "Nav": {
+    "home": "首页",
+    "churchInfo": "关于教会",
+    "intro": "教会简介",
+    "history": "教会历史",
+    "greeting": "牧师问候",
+    "people": "服事团队",
+    "newFamily": "新家庭",
+    "directions": "交通指引",
+    "worship": "崇拜",
+    "ministry": "事工",
+    "events": "活动",
+    "media": "媒体",
+    "giving": "奉献",
+    "give": "奉献"
+  },
+  "Home": {
+    "heroTagline": "卑诗省纳奈莫 · 温哥华岛",
+    "heroTitle": "Nanaimo Native Victory Church",
+    "heroSub": "Nanaimo Native Victory Church 是温哥华岛上一个以基督为中心的群体，服事并与这片土地上的原住民同行。我们凭借谦卑、祷告与真诚的关系，藉着耶稣基督的爱寻求医治、复兴与盼望。",
+    "heroMessages": [
+      "六十多年前与这片土地上的原住民一同起步的福音之路——今天我们仍并肩同行。",
+      "在有创伤的地方，我们为耶稣基督的医治与复兴祷告。",
+      "我们将温哥华岛上的53个族群——每一个名字——都存在祷告中。"
+    ],
+    "heroCta1": "探访与祷告",
+    "heroCta2": "认识服事团队",
+    "pastorLabel": "主任牧师",
+    "pastorName": "Rev. Joon Cho",
+    "pastorLink": "认识服事团队",
+    "eventsTitle": "近期活动",
+    "events": [
+      {
+        "name": "成人崇拜",
+        "time": "下午3点"
+      },
+      {
+        "name": "青年崇拜",
+        "time": "下午1点"
+      },
+      {
+        "name": "儿童崇拜",
+        "time": "下午1点"
+      }
+    ],
+    "ctaTitle": "探访与祷告",
+    "ctaBody": "471 Irwin Street, Nanaimo, BC, V9R 4X9",
+    "ctaVisit": "探访与祷告",
+    "ctaGive": "奉献"
+  },
+  "About": {
+    "eyebrow": "关于教会",
+    "title": "教会简介",
+    "introLabel": "欢迎",
+    "introBody": "Nanaimo Native Victory Church 是温哥华岛上一个以基督为中心的群体，服事并与这片土地上的原住民同行。我们凭借谦卑、祷告与真诚的关系，藉着耶稣基督的爱寻求医治、复兴与盼望。",
+    "visionLabel": "异象",
+    "visionBody": "我们致力于传扬耶稣基督的福音，并在温哥华岛全境的53个原住民部族中建立神的教会。Nanaimo Central Church 也加入这一异象，在温哥华岛及卑诗省北部各地共同参与原住民事工。",
+    "ministriesLabel": "各项事工",
+    "ministries": [
+      "原住民成人事工",
+      "原住民青年事工",
+      "原住民新世代",
+      "食物银行"
+    ],
+    "partnersLabel": "伙伴教会",
+    "partners": [
+      "Fort Rupert Church",
+      "Glad Tidings Church"
+    ]
+  },
+  "History": {
+    "eyebrow": "关于教会",
+    "title": "教会历史",
+    "body": [
+      "Nanaimo Native Victory Church 由 Carl Miller 牧师与纳奈莫原住民于六十多年前一同建立。当年，教会积极参与将被送往寄宿学校的原住民孩子接回，并在数十年间致力于原住民的权益、福祉与原住民宣教。",
+      "Nanaimo Native Victory Church 隶属于加拿大最大的福音派宗派、神学立场保守的加拿大五旬节会（The Pentecostal Assemblies of Canada，PAOC）。该宗派在周边地区的代表性教会包括 Nanaimo Generation Church、Vancouver Broadway Church、Langley CLA 与 Victoria Coastline Church。PAOC 与韩国的纯福音教会宗派以及美国的神召会（Assemblies of God）宗派互为姊妹关系。"
+    ],
+    "milestones": [
+      {
+        "year": "六十多年前",
+        "title": "教会建立",
+        "desc": "由 Carl Miller 牧师与纳奈莫原住民一同建立。"
+      },
+      {
+        "year": "2018年",
+        "title": "Nanaimo Central Church",
+        "desc": "韩人群体开始作为 Nanaimo Native Victory Church 的一部分一同敬拜。"
+      }
+    ]
+  },
+  "Greeting": {
+    "eyebrow": "关于教会",
+    "title": "牧师问候",
+    "body": [
+      "欢迎您来到 Nanaimo Native Victory Church。我们非常高兴您找到了我们。",
+      "六十多年来，这间教会一直与温哥华岛的原住民同行，藉着耶稣基督的爱寻求医治、复兴与盼望。这一呼召至今仍塑造着我们所做的一切。",
+      "无论您是来探访、寻求，还是在寻找一个属灵的家——您都能以本来的样子在这里得着欢迎。来与我们一同敬拜，愿您在这个群体中经历神的恩典。"
+    ],
+    "signName": "Rev. Joon Cho",
+    "signRole": "主任牧师，Nanaimo Native Victory Church"
+  },
+  "Events": {
+    "eyebrow": "崇拜指南",
+    "title": "崇拜与活动",
+    "intro": "Nanaimo Native Victory Church 的崇拜时间、定期聚会与近期活动。",
+    "recurringLabel": "定期聚会",
+    "recurring": [
+      {
+        "name": "主日成人崇拜",
+        "time": "主日 下午3:00"
+      },
+      {
+        "name": "青年崇拜",
+        "time": "主日 下午1:00"
+      },
+      {
+        "name": "儿童崇拜",
+        "time": "主日 下午1:00"
+      }
+    ],
+    "upcomingLabel": "近期活动",
+    "upcoming": [
+      {
+        "date": "2026年4月5日（主日）",
+        "title": "复活节联合崇拜",
+        "time": "上午10:30",
+        "location": "礼堂 · 471 Irwin Street",
+        "desc": "庆祝复活喜乐的联合崇拜，崇拜后有团契。"
+      },
+      {
+        "date": "2026年7月18–20日",
+        "title": "夏季原住民事工营会",
+        "time": "3天",
+        "location": "温哥华岛",
+        "desc": "服事温哥华岛原住民部族的短期夏季营会。"
+      },
+      {
+        "date": "2026年10月11日（主日）",
+        "title": "感恩节主日",
+        "time": "上午10:30",
+        "location": "礼堂 · 471 Irwin Street",
+        "desc": "为一年的恩典献上感谢，一同敬拜、彼此分享。"
+      },
+      {
+        "date": "2026年12月24日（周三）",
+        "title": "平安夜崇拜",
+        "time": "晚上7:00",
+        "location": "礼堂 · 471 Irwin Street",
+        "desc": "以烛光崇拜迎接耶稣基督的降临。"
+      }
+    ],
+    "empty": "暂无预定的活动。",
+    "cta": "探访与祷告"
+  },
+  "Media": {
+    "eyebrow": "影片与新闻",
+    "title": "媒体",
+    "intro": "有关 Nanaimo Native Victory Church 及其在温哥华岛原住民事工的影片与新闻报道。",
+    "videosLabel": "影片",
+    "videos": [
+      {
+        "title": "有很好的牧师住宅，却没有牧师？· 加拿大公路之旅 [第1集]",
+        "channel": "유목민이야기"
+      },
+      {
+        "title": "守护教会20年的白发奶奶 · 加拿大公路之旅 [第2集]",
+        "channel": "유목민이야기"
+      },
+      {
+        "title": "为何向加拿大原住民宣教如此艰难？— Nanaimo Native Victory Church [第1集]",
+        "channel": "유목민이야기"
+      },
+      {
+        "title": "走进原住民村落 · 移民加拿大的益处？— Nanaimo Native Victory Church [第2集]",
+        "channel": "유목민이야기"
+      }
+    ],
+    "photosLabel": "照片",
+    "photos": [
+      {
+        "caption": "湖边的洗礼——为信心的新一步献上祝福。"
+      },
+      {
+        "caption": "在水中一同经历洗礼的时刻。"
+      },
+      {
+        "caption": "重建 Fort Rupert Church——一同修复陈旧的外墙。"
+      },
+      {
+        "caption": "重建 Fort Rupert Church——一同建立敬拜的场所。"
+      }
+    ]
+  },
+  "Ministry": {
+    "eyebrow": "事工",
+    "title": "我们的事工",
+    "intro": "传扬耶稣基督的福音，服事温哥华岛全境的原住民。",
+    "ministriesLabel": "各项事工",
+    "ministries": [
+      "原住民成人事工",
+      "原住民青年事工",
+      "原住民新世代",
+      "食物银行"
+    ],
+    "visionLabel": "我们的异象",
+    "visionCaption": "愿在温哥华岛53个原住民部族中，都能看见健康的信徒群体被建立——将每一个名字都存在祷告中。",
+    "churchesLabel": "我们的教会",
+    "churches": [
+      {
+        "name": "Nanaimo Native Victory Church",
+        "location": "Nanaimo"
+      },
+      {
+        "name": "Glad Tidings Church",
+        "location": "Alert Bay"
+      },
+      {
+        "name": "Fort Rupert Church",
+        "location": "Fort Rupert"
+      }
+    ],
+    "cta": "探访与祷告"
+  },
+  "Leadership": {
+    "eyebrow": "关于教会",
+    "title": "服事团队",
+    "name": "Rev. Joon Cho",
+    "role1": "主任牧师",
+    "org1": "Nanaimo Native Victory Church",
+    "role2": "执行董事 / 理事长",
+    "org2": "153 Mission Society",
+    "teamLabel": "同工团队",
+    "members": [
+      "主任牧师",
+      "成人事工 & 食物银行",
+      "青年牧师",
+      "地区主任",
+      "地区主任",
+      "荣誉牧师"
+    ]
+  },
+  "Visit": {
+    "eyebrow": "关于教会",
+    "title": "交通指引与探访",
+    "addressLabel": "地址",
+    "address": "471 Irwin Street, Nanaimo, BC, V9R 4X9",
+    "charity": "Charity #: 107759094RR0001",
+    "serviceLabel": "崇拜时间",
+    "services": [
+      "主日成人崇拜 下午3:00",
+      "主日青年崇拜 下午1:00",
+      "主日儿童崇拜 下午1:00"
+    ],
+    "phoneLabel": "电话",
+    "phone": "(250) 754-7866",
+    "emailLabel": "电子邮件",
+    "email": "office.nnvc@gmail.com",
+    "formTitle": "代祷请求与咨询",
+    "firstName": "名字",
+    "lastName": "姓氏",
+    "phoneField": "电话",
+    "message": "留言",
+    "submit": "发送",
+    "formThanks": "谢谢您。您的邮件应用应会打开以发送您的信息。"
+  },
+  "Give": {
+    "eyebrow": "奉献",
+    "title": "奉献",
+    "supportTitle": "愿您以温暖的心与我们同行",
+    "body": [
+      "Nanaimo Native Victory Church 的原住民宣教，藉着您的祷告与奉献得以延续。",
+      "每一份心意，无论多小，都会成为宝贵的种子，将耶稣基督的爱带给温哥华岛全境的原住民邻舍。我们衷心感谢每一位与我们同行的同工。"
+    ],
+    "methodEyebrow": "CANADA",
+    "methodTitle": "加拿大 e-Transfer（EFT）",
+    "methodDesc": "您可以通过 Interac e-Transfer 奉献。请汇至以下电子邮箱。",
+    "email": "office.nnvc@gmail.com",
+    "charity": "Charity #: 107759094RR0001",
+    "thanks": "您的奉献将用于温哥华岛全境的原住民事工。"
+  },
+  "Footer": {
+    "tagline": "Nanaimo Native Victory Church 是温哥华岛上一个以基督为中心的群体，服事并与这片土地上的原住民同行。",
+    "charity": "Charity #: 107759094RR0001",
+    "quickLinks": "快速链接",
+    "contactTitle": "联系方式",
+    "rights": "© 2026 Nanaimo Native Victory Church. 版权所有。"
+  },
+  "Contact": {
+    "address": "471 Irwin Street, Nanaimo, BC, V9R 4X9",
+    "phone": "(250) 754-7866",
+    "email": "office.nnvc@gmail.com"
+  }
+}
